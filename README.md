@@ -1,6 +1,5 @@
-# Study-session-logger
 
-# Hi, I'm [AdedosU Dapo]
+Hi, I'm [AdedosU Dapo]
 
 I# Study Session Logger
 
