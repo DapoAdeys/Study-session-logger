@@ -2,27 +2,44 @@
 
 # Hi, I'm [AdedosU Dapo]
 
-I am a Master's graduate in Genetics & Molecular Biology currently transitioning into Bioinformatics, Data Science, and Artificial Intelligence.
+I# Study Session Logger
 
-My interests focus on:
+A beginner Python project for recording and saving study sessions using JSON.
 
-* Bioinformatics
-* AI-assisted biological data analysis
-* Machine learning applications in life sciences
-* Computational approaches to genetics and molecular biology
+## Features
 
-I am currently developing projects using:
+- Records study session information
+- Saves session data into a JSON file
+- Reads stored study data
+- Handles invalid user input
 
-* Python
-* SQL
-* pandas
-* NumPy
-* R
+## Technologies Used
 
-I enjoy building small practical projects to strengthen my programming and analytical skills while expanding my understanding of data-driven biological research.
+- Python
+- JSON
+- File Handling
+- Dictionaries
 
-Currently seeking:
+## About Me
 
-* Internships
-* Traineeships
-* Collaborative learning opportunities in bioinformatics and data science
+MSc in Biological Sciences transitioning into Bioinformatics, Data Science, and AI.
+
+Skills:
+- Python
+- SQL
+- pandas
+- NumPy
+- R
+
+Currently seeking internships and traineeships in bioinformatics and data science.
+
+## How to Run
+
+1. Make sure Python is installed
+2. Download or clone this repository
+3. Open the project folder in VS Code
+4. Run the program in the terminal:
+
+```bash
+python pseudo.py
+```
